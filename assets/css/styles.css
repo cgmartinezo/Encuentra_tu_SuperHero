@@ -1,0 +1,13 @@
+header {
+    background-color: darkcyan;
+    color: white;
+    height: 4rem;
+}
+
+.descripcion {
+    width: 40%;
+    height: auto;
+    margin-left: 30%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
