@@ -17,7 +17,6 @@ $(function () {
             success(data) {
                 // datos para SuperHero
                 $("#heroInfo").html(`
-
                 <h3 class="text-center">Super Héroe Encontrado</h3>
                 <div class="card">
                     <div class="row g-0">
@@ -48,7 +47,7 @@ $(function () {
                             </div>
                         </div>
                     </div>
-            `);
+            `)
 
                 // grafico
                 const dataPoints = [
